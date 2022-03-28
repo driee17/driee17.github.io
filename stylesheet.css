@@ -1,0 +1,17 @@
+/* CMSC 100 Lab Exercise 1: Github Pages 
+Adrian B. Cueto
+2020-02461
+BS Computer Science */
+
+body { /* styles the body */
+    margin: 20px;
+    background-color:azure;
+    font-family:"Arial";
+}
+
+#creatorname { /* styles the 'name and nickname' of the creator */
+    padding: 40px;
+    text-align: center;
+    background-color: cornflowerblue;
+    color: #FFFF00;
+}
