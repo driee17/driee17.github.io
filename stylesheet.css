@@ -20,8 +20,13 @@ body { /* styles the body */
 h3 { /* style for the information questions */
     border:2px solid slateblue;
     border-radius:8px;
-    background-color:lightseagreen;	
+    background-color:#052C0A;	
     color:#d0fefe;
     margin:5px;
     padding:10px;
+}
+
+p { /* style for the personal information */
+    padding:10px;
+    background-color:#DCE775;
 }
