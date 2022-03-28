@@ -4,14 +4,24 @@ Adrian B. Cueto
 BS Computer Science */
 
 body { /* styles the body */
-    margin: 20px;
+    margin:15px;
     background-color:azure;
     font-family:"Arial";
 }
 
 #creatorname { /* styles the 'name and nickname' of the creator */
-    padding: 40px;
-    text-align: center;
-    background-color: cornflowerblue;
+    padding:20px;
+    border-radius:6px;
+    text-align:center;
+    background-color:#0C3DB0;
     color: #FFFF00;
+}
+
+h3 { /* style for the information questions */
+    border:2px solid slateblue;
+    border-radius:8px;
+    background-color:lightseagreen;	
+    color:#d0fefe;
+    margin:5px;
+    padding:10px;
 }
